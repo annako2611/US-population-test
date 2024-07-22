@@ -1,1 +1,13 @@
 streamlit
+pandas
+altair
+plotly
+vega_datasets
+matplotlib
+scipy
+bokeh==2.4.3
+pydeck
+graphviz
+
+
+
