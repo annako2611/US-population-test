@@ -4,10 +4,10 @@
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
 
-Crafting a Dashboard App in Python using Streamlit, https://www.youtube.com/watch?v=asFqpMDSPdM
-Building a dashboard in Python using Streamlit, https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit
-GitHub repo, https://github.com/dataprofessor/population-dashboard?ref=blog.streamlit.io
-Dasbboard app, https://population-dashboard.streamlit.app/?ref=blog.streamlit.io
+- Crafting a Dashboard App in Python using Streamlit, https://www.youtube.com/watch?v=asFqpMDSPdM
+- Building a dashboard in Python using Streamlit, https://blog.streamlit.io/crafting-a-dashboard-app-in-python-using-streamlit
+- GitHub repo, https://github.com/dataprofessor/population-dashboard?ref=blog.streamlit.io
+- Dasbboard app, https://population-dashboard.streamlit.app/?ref=blog.streamlit.io
 
 
 
